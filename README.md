@@ -1,1 +1,1 @@
-# JavaQAP2
+# Second Java QAP for third semester
