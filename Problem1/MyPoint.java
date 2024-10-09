@@ -1,3 +1,4 @@
+package Problem1;
 public class MyPoint {
     // Instance variables
     private int x;

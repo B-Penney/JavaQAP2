@@ -1,3 +1,4 @@
+package Problem1;
 public class MyLine {
         // Instance variables: The beginning and end points
         private MyPoint begin;
